@@ -79,6 +79,8 @@ select {
 .middle-list{
     text-decoration: none;
     list-style: none;
+    margin-bottom: 0px;
+
 }
 
 .opening{
@@ -99,6 +101,7 @@ select {
     align-items: center;
     gap: 19px;
     font-size: 19.45px;
+    margin-bottom: 0px;
 }
 
 .top-top{
@@ -124,4 +127,29 @@ select {
 .icons{
     display: flex;
     align-items: center;
+}
+.top-button{
+  background-color: #c2c8cc;
+  padding-top: 19px;
+  padding-bottom: 19px;
+  padding-left: 32px;
+  padding-right: 32px;
+  font-size: 16px;
+  margin-left: 10px;
+  border: 0ch;
+}
+
+.writing-top{
+  display: flex;
+  color: white;
+  flex-direction: column;
+  padding-top: 100px;
+  padding-bottom: 54px;
+  padding-left: 388px;
+  padding-right: 388px;
+  align-items: center;
+
+  
+
+
 }
