@@ -149,7 +149,29 @@ select {
   padding-right: 388px;
   align-items: center;
 
-  
+}
 
+.under-image{
+  color: white;
+}
+
+
+.middle-under-tittle{
+  display: flex;
+  font-size: 47px;
+  padding-top: 147px;
+  padding-left: 333px;
+  padding-right: 333px;
+  flex-direction: column;
+  align-items: center
+  
+}
+
+.all-three{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 19px;
 
 }
+
