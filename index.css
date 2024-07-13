@@ -217,3 +217,28 @@ select {
   margin: 50px;
   background: white;
 }
+
+.page1{
+  display: flex;
+}
+
+
+.left-pic1{
+  border: solid red 1px;
+  width: 50%;
+  padding: 40px;
+}
+
+.right1{
+border: solid blue 1px;
+width: 50%;
+display: flex;
+gap: 20px;
+}
+
+
+
+.page1{
+  border: green;
+  display: flex;
+}
