@@ -93,6 +93,7 @@ select {
     padding-right: 57px;
     color: white;
 
+
 }
 
 .middle-list{
@@ -290,5 +291,43 @@ flex-direction: column;
   font-size: 17.72px;
   background-color: #a8aeae;
   border: none;
+
+}
+
+.last-box{
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
+  margin-left: 37px;
+  margin-right: 37px;
+  margin-bottom: 100px;
+  
+}
+
+.closing{
+  width: 100%;
+  height: 201.43px;
+  background-color: #c2c8cc;
+  justify-content: center;
+  padding-top: 30px;
+  padding-left: 35%;
+
+
+}
+.space{
+  height: 72px;
+  width: 280px;
+  border: none;
+  padding-left: 25px;
+}
+
+.sign-up{
+  height: 64px;
+  width: 124px;
+  background-color: black;
+  border: none;
+  color: #C2C8CC;
+  font-size: 17.728px;
+  margin-left: 10px;
 
 }
